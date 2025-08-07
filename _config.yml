@@ -1,0 +1,32 @@
+# Configuración del sitio
+title: "Equilibrio Pro"
+description: "Recupera tu calma, potencia tu carrera. Guía científica para combatir el burnout profesional."
+baseurl: "/equilibrio-pro"
+url: "https://tu-username.github.io"
+
+# Jekyll settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO & Analytics
+lang: es
+timezone: Europe/Madrid
+
+# Author info
+author:
+  name: "Equilibrio Pro Team"
+  email: "contacto@equilibriopro.com"
+
+# AdSense (agregar después)
+# google_adsense: "ca-pub-XXXXXXXX"
+
+# Social
+twitter_username: equilibrio_pro
+github_username: azareus1982
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
